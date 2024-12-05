@@ -25,3 +25,7 @@ Para excutar o programa é necessario passar dois argumentos :
 ```bash
   dotnet run <nome> <empresa>
 ```
+
+  ## To Do
+
+  Adicionar arquivos e lib de localização para poder se comunicar em diferentes países
