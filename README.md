@@ -1,4 +1,5 @@
 # Script para iniciar mensagems com tech recruiter Linkedin
+![](https://img.shields.io/badge/license-MIT-0.svg)
 
 ##  Environment Variables
 
