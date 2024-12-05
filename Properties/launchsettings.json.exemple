@@ -1,0 +1,14 @@
+{
+     "profiles": {
+        "local":{
+            "commandName": "Project",
+            "environmentVariables": {
+            "DOTNET_ENVIRONMENT": "Local",
+            "YOUR_NAME":"",
+            "TIME_EXPERINCE":"",
+            "RULE":"",
+            "SKILLS":"",            
+            }
+        },
+    },
+}
